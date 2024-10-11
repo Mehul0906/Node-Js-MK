@@ -14,7 +14,7 @@ app.get("/getproduct",(req,res)=>{
         }
     })
 })
-
+    
 app.listen(8080,()=>{
-    console.log("server is running pn port 8080")
+    console.log("server is running pn port 8080")   
 })
